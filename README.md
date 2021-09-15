@@ -1,15 +1,15 @@
 # MyWebsite-202113-100
 My own collaboration website for TC1001S
 
-##Authors
-	- Andrea Ochoa
-	- Sue Mi Zamarrón
-	- Alejandro Cortina Hernández
+#Authors
+- Andrea Ochoa
+- Sue Mi Zamarrón
+- Alejandro Cortina Hernández
 
-##Website
+#Website
 
-	This is the information about the website
+This is the information about the website
 
-##Games
+#Games
 
-	This is the information about the games
+This is the information about the games
